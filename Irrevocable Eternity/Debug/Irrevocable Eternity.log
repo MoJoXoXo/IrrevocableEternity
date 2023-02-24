@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+﻿Build started 2/23/2023 12:23:38 AM.
+     1>Project "R:\projects\Irrevocable Eternity\Irrevocable Eternity\Irrevocable Eternity.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"R:\projects\Irrevocable Eternity\Debug\Irrevocable Eternity.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"R:\projects\Irrevocable Eternity\Debug\Irrevocable Eternity.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"R:\projects\Irrevocable Eternity\Debug\Irrevocable Eternity.lib" /MACHINE:X86 Debug\iMain.obj
+         Irrevocable Eternity.vcxproj -> R:\projects\Irrevocable Eternity\Debug\Irrevocable Eternity.exe
+     1>Done Building Project "R:\projects\Irrevocable Eternity\Irrevocable Eternity\Irrevocable Eternity.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.87
+=======
+﻿Build started 2/1/2023 3:52:05 PM.
+     1>Project "R:\Irrevocable Eternity\Irrevocable Eternity\Irrevocable Eternity.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         Irrevocable Eternity.vcxproj -> R:\Irrevocable Eternity\Debug\Irrevocable Eternity.exe
+     1>Done Building Project "R:\Irrevocable Eternity\Irrevocable Eternity\Irrevocable Eternity.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14
+>>>>>>> 48492cb8f14f582b4b6f1dd17c85d7dbe3dd4196
